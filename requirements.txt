@@ -5,5 +5,5 @@ python-multipart==0.0.32
 azure-data-tables==12.7.0
 bcrypt==5.0.0
 itsdangerous==2.2.0
-python-dotenv==1.2.2
+python-dotenv==1.2.3
 fastmcp==3.4.7
