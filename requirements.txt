@@ -6,4 +6,4 @@ azure-data-tables==12.7.0
 bcrypt==5.0.0
 itsdangerous==2.2.0
 python-dotenv==1.2.2
-fastmcp==3.4.7
+fastmcp==4.0.3
